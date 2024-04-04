@@ -1,7 +1,9 @@
 # C_GrayScale_Image_Processing
-C GrayScale Image Processing
 
-C 언어 기반 GrayScale Image Processing 코드입니다. 보고서가 첨부 되어 있습니다.
+Visual Studio 로  개발한 GrayScale 이미지 처리 코드입니다.
+Code 폴더 안에 전체 코드 압축파일이 있습니다.
+압축 푸신 후 폴 내에 sln파일로 실행하시면 됩니다.
+보고서 파일도 첨부합니다.
 
 
 # 개요
