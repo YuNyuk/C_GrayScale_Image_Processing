@@ -1,9 +1,9 @@
 # C_GrayScale_Image_Processing
 
-Visual Studio 로  개발한 GrayScale 이미지 처리 코드입니다.
-Code 폴더 안에 전체 코드 압축파일이 있습니다.
-압축 푸신 후 폴 내에 sln파일로 실행하시면 됩니다.
-보고서 파일도 첨부합니다.
+Visual Studio 로  개발한 GrayScale 이미지 처리 코드입니다. <br>
+Code 폴더 안에 전체 코드 압축파일이 있습니다. <br>
+압축 푸신 후 폴 내에 sln파일로 실행하시면 됩니다. <br>
+보고서 파일도 첨부합니다. <br><br>
 
 
 # 개요
